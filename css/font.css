@@ -1,0 +1,24 @@
+@font-face {
+    font-family: dana;
+    src: url(/fonts/dana-fanum-bold.woff2);
+}
+
+@font-face {
+    font-family: dana;
+    src: url(/fonts/dana-fanum-demibold.woff2);
+}
+
+@font-face {
+    font-family: dana;
+    src: url(/fonts/dana-fanum-light.woff2);
+}
+
+@font-face {
+    font-family: dana;
+    src: url(/fonts/dana-fanum-medium.woff2);
+}
+
+@font-face {
+    font-family: dana;
+    src: url(/fonts/dana-fanum-regular.woff2);
+}
